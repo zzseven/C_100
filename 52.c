@@ -24,7 +24,7 @@ void mystrcat(char *str1, char * tr2)
 
 void main()
 {
-    printf("第52题 编写一个函数fun，它的功能是：实现两个字符串的连接(不使用库函数strcat)，即把p2所指的字符串连接到p1所指的字符串后。\n\n");
+    printf("第52题\n\n  编写一个函数fun，它的功能是：实现两个字符串的连接(不使用库函数strcat)，即把p2所指的字符串连接到p1所指的字符串后。\n\n");
     char str1[100], str2[100];
     printf("Input string1: ");
     gets(str1);
